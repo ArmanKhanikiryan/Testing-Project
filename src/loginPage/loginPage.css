@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 134px);
+    width: 100vw;
+}
+
+.phoneImg {
+    width: 450px;
+    height: 581px;
+    background-image: url("https://static.cdninstagram.com/rsrc.php/v3/y4/r/ItTndlZM2n2.png");
+}
+
+.secondImage {
+    top: 21px;
+    left: 156px;
+    position: relative;
+    width: 251px;
+    height: 551px;
+}
+
+.App {
+    background-color: #FAFAFA;
+}
+
+.containerLogin {
+    width: 350px;
+    height: 584px;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: #5295f6;
+    font-weight: bold;
+}
+
+.middleDivText {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Segoe UI, serif;
+    font-size: 14px;
+}
+
+
+
+

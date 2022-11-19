@@ -1,0 +1,14 @@
+.bottomDiv {
+    width: 350px;
+    height: 44px;
+    background-color: #FAFAFA;
+    display: flex;
+    padding-left: 35px;
+    gap: 10px;
+}
+
+.logoLinks {
+    margin-top: 20px;
+    width: 134px;
+    height: 40px;
+}

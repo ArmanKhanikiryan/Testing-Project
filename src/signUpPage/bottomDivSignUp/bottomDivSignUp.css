@@ -1,0 +1,9 @@
+.bottomDiv {
+    margin-top: 25px;
+    width: 350px;
+    height: 44px;
+    background-color: #FAFAFA;
+    display: flex;
+    padding-left: 35px;
+    gap: 10px;
+}

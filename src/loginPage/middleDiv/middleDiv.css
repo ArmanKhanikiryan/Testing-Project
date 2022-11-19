@@ -1,0 +1,20 @@
+.middleDiv {
+    display: flex;
+    margin-top: 10px;
+    width: 350px;
+    height: 63px;
+    border: 1px solid hsl(210deg 8% 75%);
+    background: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.middleDivContainer {
+    font-family: Segoe UI, serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none solid rgb(142, 142, 142);
+    text-align: center;
+    color: RGB(142, 142, 142);
+    background-color: RGBA(0, 0, 0, 0);
+}

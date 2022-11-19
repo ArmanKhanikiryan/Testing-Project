@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+}
+
+.App {
+    background-color: #FAFAFA;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 134px);
+    width: 100vw;
+}
+
+.signUpDiv {
+    width: 350px;
+    height: 865px;
+}
+
+a {
+    text-decoration: none;
+    color: #5295f6;
+}
+
+.middleDivText {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Segoe UI, serif;
+    font-size: 14px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

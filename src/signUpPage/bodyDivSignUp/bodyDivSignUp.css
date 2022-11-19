@@ -1,0 +1,77 @@
+.bodyDiv {
+    display: flex;
+    width: 100%;
+    height: 68%;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border: 1px solid hsl(210deg 8% 75%);;
+}
+
+.logo {
+    padding-top: 25px;
+    width: 180px;
+    margin-bottom: 15px;
+}
+
+.signUpRecommendation {
+    text-align: center;
+}
+
+.signUpRecommendationText {
+    font-family: Segoe UI, serif;
+    font-size: 17px;
+    font-weight: 600;
+    text-decoration: none solid rgb(142, 142, 142);
+    text-align: center;
+    color: RGB(142, 142, 142);
+    background-color: RGBA(0, 0, 0, 0);
+}
+
+.line {
+    margin-top: 25px;
+    height: 1px;
+    width: 258px;
+    background-color: #DBDBDB;
+}
+
+.inputDiv {
+    margin-top: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.inputs {
+    width: 258px;
+    height: 36px;
+    background: #FAFAFA;
+    border-radius: 3px;
+    -webkit-appearance: none;
+    border: 1px solid hsl(210deg 8% 75%);
+    font-size: 12px;
+    color: grey;
+    font-weight: 200;
+}
+
+.middleBodyText {
+    margin-top: 20px;
+    font-family: Segoe UI, serif;
+    color: RGB(142, 142, 142);
+    font-size: 12px;
+    text-align: center;
+    max-width: 258px;
+}
+
+.signUpBtn {
+    width: 268px;
+    height: 30px;
+    margin-top: 15px;
+    cursor: pointer;
+    background-color: #b2dffc; /* #0095f6 - enable color */
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    color: white;
+}

@@ -1,12 +1,12 @@
-import React from 'react';
-import './App.css';
+import {FC} from "react";
+import LoginPage from "./loginPage/loginPage";
+// import SignUpPage from "./signUpPage/signUpPage";
 
-function App() {
-  return (
-    <div className="App">
-
+const App: FC = () => {
+    return <div className='App'>
+        <LoginPage/>
+        {/*<SignUpPage/>*/}
     </div>
-  );
 }
 
-export default App;
+export default App
